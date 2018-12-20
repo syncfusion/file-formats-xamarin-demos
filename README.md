@@ -1,4 +1,4 @@
-The Syncfusion PDF viewer for Xamarin Forms platform is a native control for viewing and reviewing PDF documents. 
+The Syncfusion PDF viewer for Xamarin Forms platform is a native control for viewing and reviewing PDF documents.  
 
 **Key Features** 
 
