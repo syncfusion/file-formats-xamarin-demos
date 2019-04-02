@@ -3,7 +3,7 @@ The Syncfusion PDF viewer for Xamarin Forms platform is a native control for vie
 **Key Features** 
 
 * High performance.
-* Select and copy text.
+* Select and copy text. 
 * Search and highlight text.
 * PDF documents reviewable using shapes, highlight, underline, strike-through, ink, and free text annotations.
 * Localization support.
