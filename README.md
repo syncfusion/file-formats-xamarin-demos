@@ -1,4 +1,4 @@
-# Syncfusion File Format Xamarin product samples 
+﻿# Syncfusion File Format Xamarin product samples 
 
 This repository contains the demos of Syncfusion file format Xamarin products. Syncfusion file format products contains .NET libraries to create, read, edit and convert [PDF](https://www.syncfusion.com/pdf-framework/xamarin?utm_source=github&utm_medium=listing), [Excel](https://www.syncfusion.com/excel-framework/xamarin?utm_source=github&utm_medium=listing), [Word](https://www.syncfusion.com/word-framework/xamarin?utm_source=github&utm_medium=listing) and [PowerPoint](https://www.syncfusion.com/powerpoint-framework/xamarin?utm_source=github&utm_medium=listing) files. Also, it contains UI controls such as [PDF Viewer](https://www.syncfusion.com/xamarin-ui-controls/pdf-viewer?utm_source=github&utm_medium=listing) to work with PDF files interactively. This is the best place to check our libraries/controls to get more insight about the usage of APIs.
 
@@ -86,4 +86,4 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2023 Syncfusion, Inc. Updated on 2023-02-02 at precisely 14:22:56 EST.</p>
+<p>Copyright © 2001-2023 Syncfusion, Inc. Updated on 2023-03-24 at precisely 15:17:03 EST.</p>
